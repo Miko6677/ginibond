@@ -1,0 +1,13 @@
+{
+    "name":"ginibond", 
+    "description":"图标按照机场名或群名命名，按照A-Z排列，方便查找。", 
+    "icons":
+            [
+	{"name":"Alink", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/Alink.png"},
+        {"name":"AMY", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/AMY.png"},
+	{"name":"Anyland", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/Anyland.png"},
+        
+        {"name":"VPS", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/VPS.png"}
+            ]
+    }
+    
