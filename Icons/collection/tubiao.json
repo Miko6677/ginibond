@@ -3,6 +3,7 @@
   "description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。",  
   "icons":
     [
+	{"name":"1onlyfans1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/1onlyfans1.png"},
 	{"name":"9club1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/9club1.png"},
 	{"name":"9club2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/9club2.png"},
 	{"name":"Alphatv1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Alphatv1.png"},
