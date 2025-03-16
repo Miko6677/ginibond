@@ -3,7 +3,6 @@
     "description":"图标按照联系人名命名，按照A-Z排列，方便查找。", 
     "icons":
             [
-	{"name":"ggb2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/contact/ggb2.png"},
 	{"name":"GGB_1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/contact/GGB_1.png"},
 	{"name":"GGB_2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/contact/GGB_2.png"},
 	{"name":"GGB_3", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/contact/GGB_3.png"},
