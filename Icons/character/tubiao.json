@@ -1,0 +1,9 @@
+{
+        "name":"ginibond", 
+        "description":"",  
+        "icons":
+          [
+      
+              {"name":"Character", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Character.png"}
+          ]
+      }
