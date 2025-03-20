@@ -3,6 +3,7 @@
         "description":"",  
         "icons":
           [
+	{"name":"01", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/QQ_Classic/01.png"},
   
 	{"name":"QQ_Classic", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/QQ_Classic/QQ_Classic.png"}
           ]
