@@ -3,6 +3,7 @@
         "description":"",  
         "icons":
           [
+	{"name":"01", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Cute_Cartoon/01.png"},
   
 	{"name":"Cute_Cartoon", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Cute_Cartoon/Cute_Cartoon.png"}
           ]
