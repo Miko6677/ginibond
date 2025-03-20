@@ -1,0 +1,9 @@
+{
+        "name":"QQ经典", 
+        "description":"",  
+        "icons":
+          [
+  
+	{"name":"QQ_Classic", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/QQ_Classic/QQ_Classic.png"}
+          ]
+      }
