@@ -1,0 +1,10 @@
+{
+        "name":"RageBaby", 
+        "description":"",  
+        "icons":
+          [
+	{"name":"001", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/001.png"},
+  
+	{"name":"RageBaby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/RageBaby.png"}
+          ]
+      }
