@@ -3,6 +3,7 @@
     "description":"图标按照机场名或群名命名，按照A-Z排列，方便查找。", 
     "icons":
             [
+	{"name":"1_yifen", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/1_yifen.png"},
 	{"name":"1NEXITALLY", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/1NEXITALLY.png"},
 	{"name":"Aifun", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/Aifun.png"},
 	{"name":"Alink", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/Alink.png"},
