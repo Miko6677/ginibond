@@ -3,6 +3,7 @@
         "description":"",  
         "icons":
           [
+	{"name":"Pilipili", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Pilipili.png"},
 
 	{"name":"1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/1.png"},
 	{"name":"2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/2.png"},
