@@ -3,6 +3,7 @@
         "description":"",  
         "icons":
           [
+	{"name":"Anisaga", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Anisaga.png"},
 	{"name":"Bingzhenxigua", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Bingzhenxigua.png"},
 	{"name":"Cinetrail", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Cinetrail.png"},
 	{"name":"Mooguu_gongfei", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Mooguu_gongfei.png"},
