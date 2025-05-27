@@ -4,6 +4,7 @@
         "icons":
           [
 	{"name":"AlphaTV", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/AlphaTV.png"},
+	{"name":"AlphaTV_Omega", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/AlphaTV_Omega.png"},
 	{"name":"AlphaTV_Pro", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/AlphaTV_Pro.png"},
 	{"name":"AlphaTV_X", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/AlphaTV_X.png"},
 	{"name":"Anisaga", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Anisaga.png"},
