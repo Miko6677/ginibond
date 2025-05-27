@@ -3,6 +3,7 @@
         "description":"",  
         "icons":
           [
+	{"name":"AlphaTV", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/AlphaTV.png"},
 	{"name":"Anisaga", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Anisaga.png"},
 	{"name":"Ash", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Ash.png"},
 	{"name":"ASK", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/ASK.png"},
