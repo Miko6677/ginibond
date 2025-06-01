@@ -1,5 +1,5 @@
 {
-	"name":"emby", 
+	"name":"Fileball Icon", 
 	"description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。",  
 	"icons":
 		[
@@ -383,6 +383,7 @@
 			{"name":"pinhaofu", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/pinhaofu.png"},
 			{"name":"pinhaofu2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/pinhaofu2.png"},
 			{"name":"star_emby2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/star_emby2.png"},
+			{"name":"staremby1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/staremby1.png"},
 
 			{"name":"11Pshare", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/11Pshare.png"},
 			{"name":"2020", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/2020.png"},
