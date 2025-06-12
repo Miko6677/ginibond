@@ -665,8 +665,7 @@
 			{"name":"Onedrive2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Onedrive2.png"},
 			{"name":"Onedrive3", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Onedrive3.png"},
 			{"name":"Onedrive4", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Onedrive4.png"},
-			{"name":"pikpak1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/pikpak1.png"},
-			{"name":"pikpak2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/pikpak2.png"},
+			{"name":"Openlist", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Openlist.png"},
 			{"name":"Plex1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Plex1.png"},
 			{"name":"Plex2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Plex2.png"},
 			{"name":"Plex3", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Plex3.png"},
@@ -674,6 +673,8 @@
 			{"name":"Quark1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Quark1.png"},
 			{"name":"Quark2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Quark2.png"},
 			{"name":"Tianyiyun1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Tianyiyun1.png"},
-			{"name":"Tianyiyun2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Tianyiyun2.png"}
+			{"name":"Tianyiyun2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Tianyiyun2.png"},
+			{"name":"pikpak1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/pikpak1.png"},
+			{"name":"pikpak2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/pikpak2.png"}
 		]
 }
