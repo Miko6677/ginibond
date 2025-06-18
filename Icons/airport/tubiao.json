@@ -63,6 +63,7 @@
 			{"name":"Wandayun", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/Wandayun.png"},
 			{"name":"Westdata", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/Westdata.png"},
 			{"name":"Westdata_2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/Westdata_2.png"},
+			{"name":"Wgetcloud", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/Wgetcloud.png"},
 			{"name":"WyCloud", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/WyCloud.png"},
 			{"name":"YepFast", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/YepFast.png"},
 			{"name":"YkkCloud", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/YkkCloud.png"},
@@ -70,6 +71,7 @@
 			{"name":"bkcloud", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/bkcloud.png"},
 			{"name":"ssone", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/ssone.png"},
 			{"name":"tkv", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/tkv.png"},
+			{"name":"wycloud", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/wycloud.png"},
 
 			{"name":"VPS", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/airport/VPS.png"}
 		]
