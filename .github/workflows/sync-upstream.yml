@@ -1,0 +1,32 @@
+name: Sync Upstream
+
+on:
+  schedule:
+    - cron: '0 16 * * *'     # 每天北京时间 00:00 自动同步
+  workflow_dispatch:         # 允许手动一键同步
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/ginibond/ginibond.git || true
+
+      - name: Fetch latest changes from upstream
+        run: git fetch upstream --prune --tags
+
+      - name: Merge upstream main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git checkout main || git checkout -b main
+          git merge upstream/main --no-ff -m "Merge upstream main" || echo "No new changes or conflict"
+          
+          git push origin main
